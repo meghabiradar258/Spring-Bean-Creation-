@@ -4,19 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29d617a8-e2ed-400f-8496-e48a94900ea0" name="Changes" comment="" />
+    <list default="true" id="29d617a8-e2ed-400f-8496-e48a94900ea0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/Anotation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/Anotation/StudentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/Anotation/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/UsingXmlConfig/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/UsingXmlConfig/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/javaConfig/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/javaConfig/StudentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springBeans/javaConfig/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pT941Wv3Qy0H1hChnSXW1n1DcW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,12 +49,69 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.StudentMain.executor": "Run",
+    "Application.com.springBeans.Anotation.StudentMain.executor": "Run",
+    "Application.com.springBeans.javaConfig.StudentMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/SpringBeanCreation/src/main/java/com/springBeans/Main.java"
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/CollectionFramework",
+    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/SpringBeanCreation/src/main/java/com/springBeans/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.com.springBeans.Anotation.StudentMain">
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springBeans.UsingXmlConfig.StudentMain" />
+      <module name="SpringBeanCreation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springBeans.UsingXmlConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.springBeans.Anotation.StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springBeans.Anotation.StudentMain" />
+      <module name="SpringBeanCreation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springBeans.Anotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.springBeans.javaConfig.StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springBeans.javaConfig.StudentMain" />
+      <module name="SpringBeanCreation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springBeans.javaConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.springBeans.Anotation.StudentMain" />
+        <item itemvalue="Application.com.springBeans.javaConfig.StudentMain" />
+        <item itemvalue="Application.StudentMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
